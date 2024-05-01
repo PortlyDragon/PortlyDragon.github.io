@@ -31,6 +31,9 @@ html,body{
 {
     background-color: rgba(255, 255,255,.3);
 }
+.toport a:hover {
+    background-color: rgba(255, 255,255,.3);
+}
 .main-nav {
     text-align: center;
     font-size: 1.1em;
@@ -82,4 +85,8 @@ font-size: 3em;
 .footer-nav img {
     width: 30px;
     height: 30px;
+}
+.homeImage {
+    border-radius: 25%;
+    
 }
