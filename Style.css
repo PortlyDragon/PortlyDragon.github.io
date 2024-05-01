@@ -47,6 +47,9 @@ html,body{
     background-size: cover;
     padding-bottom: 30px;
 }
+.Owner-name{
+    color: white;
+}
 .Owner-name-large{
 font-size: 3em;
 }
