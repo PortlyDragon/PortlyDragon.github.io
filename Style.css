@@ -34,6 +34,10 @@ html,body{
 .toport a:hover {
     background-color: rgba(255, 255,255,.3);
 }
+.toport a {
+  
+    text-decoration: none;
+}
 .main-nav {
     text-align: center;
     font-size: 1.1em;
